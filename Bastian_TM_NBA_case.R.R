@@ -7,7 +7,8 @@
 
 Sys.setlocale('LC_ALL','C')
 
-setwd('C:/Users/Tim/Documents/Hult/NLP/in class/Text-Mining-NLP/Case/Case I')
+# set to your file location
+setwd('')
 
 options(stringsAsFactors = FALSE) #text strings will not be factors of categories
 
